@@ -2,7 +2,7 @@
 
 A supervised learning project that classifies digital messages as **Spam** or **Legitimate**. It compares three classifiers (KNN, SVM and Naive Bayes) and explains their behaviour using probability concepts such as conditional probability and Bayes' Theorem.
 
-🚀 **Live App:** [Open the Streamlit app](PASTE_STREAMLIT_APP_URL_HERE)
+🚀 **Live App:** [Open the Streamlit app] : https://message-intelligence-system-2ttadt8oaidm6qymkypd8x.streamlit.app/
 
 ## Objective
 
