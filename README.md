@@ -4,8 +4,6 @@ A supervised learning project that classifies digital messages as **Spam** or **
 
 🚀 **Live App:** [Open the Streamlit app](PASTE_STREAMLIT_APP_URL_HERE)
 
-🎥 **Project Explanation Video:** [Watch the video](PASTE_VIDEO_LINK_HERE)
-
 ## Objective
 
 Build a message classification system for a communication security company, compare distance-based, margin-based and probabilistic classifiers, and recommend the best model for real-world deployment.
